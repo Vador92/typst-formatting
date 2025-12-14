@@ -1,0 +1,7 @@
+[package]
+name = "resume-doc"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Varun Doreswamy"]
+license = "MIT"
+description = "Understanding typst more. Just mess around."
